@@ -1,21 +1,21 @@
 # SETripPlanning
 
-##Day 1
+## Day 1
 
-###Flight to Vancouver
+### Flight to Vancouver
 
-##Day 2
+## Day 2
 
 ### Skiing
 
-##Day 3
+## Day 3
 
-###Excursion Day
+### Excursion Day
 
-##Day 4
+## Day 4
 
-###Skiing
+### Skiing
 
-##Day 5
+## Day 5
 
-###Flight Home
+### Flight Home
