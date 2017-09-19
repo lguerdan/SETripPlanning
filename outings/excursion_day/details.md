@@ -5,7 +5,9 @@ This trip is a half day trip to see the scenery of the area around Vancouver.  A
 
 **Per Person:** $159.44
 
-Departure Time: 10 a.m.
+**Departure Time:** 10 a.m.
+
+**Duration:** 6 Hours
 
 ## Included in Cost
 * Hotel pickup and drop-off 
