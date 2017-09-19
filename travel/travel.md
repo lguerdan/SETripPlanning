@@ -2,12 +2,26 @@
 
 - We will be traveling to and from Vancouver on United Airlines
 - Departure information:
-    + Depart COU at 5:20 a.m. CT
-    + Arrive YVR at 11:52 a.m. PST
+    + December 17, Depart COU at 5:20 a.m. CT
+    + December 17, Arrive YVR at 11:52 a.m. PST
 
 - Return information
-    + Depart YVR at 3:03 p.m. PST
-    + Arrive COU at 10:48 p.m. CT
+    + December 21, Depart YVR at 3:03 p.m. PST
+    + December 21, Arrive COU at 10:48 p.m. CT
 
 - Total cost: $2723.95
 - Receipts [can be found here](/receipts/VancouverFlights.pdf "Flight Receipts") 
+
+## Car Rentals
+
+- We will be renting a large SUV (Ford Expedition Max) to use for the weekend
+- Alex will be driving since he is the only one over 25. This will make it cheaper.
+
+- Pickup information:
+    + December 17, 12:00 p.m. at airport
+
+- Drop off information
+    + December 21, 2:00 p.m. at airport
+
+- Total cost: $931.63
+- Receipts [can be found here](/receipts/CarRental.pdf "Car Receipts") 
