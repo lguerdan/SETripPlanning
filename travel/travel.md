@@ -12,6 +12,12 @@
 - Total cost: $2723.95
 - Receipts [can be found here](/receipts/VancouverFlights.pdf "Flight Receipts") 
 
+## Transport to & from airport
+- After some research, Columbia regional airport offers free parking so we will not need a taxy or Uber.
+-   Alexander picks us all up at 4:00 am from our houses
+-   Arrive at airport at 4:15 am
+-   After return at 11:00 pm , Alexander drops us back off
+
 ## Car Rentals
 
 - We will be renting a large SUV (Ford Expedition Max) to use for the weekend
