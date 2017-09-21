@@ -38,3 +38,5 @@ See the details for:
 - [cuisine](cuisine/cuisine.md)
 - [outings](outings/outings.md)
 - [travel](travel/travel.md)
+
+See total expenses [here](totalExpenses.md).
