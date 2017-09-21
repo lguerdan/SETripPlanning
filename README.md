@@ -30,3 +30,11 @@
     + Depart YVR at 3:03 p.m. PST
     + Arrive COU at 10:48 p.m. CT
     + Alexander drives us home at 11:00 pm
+
+# Details
+
+See the details for:
+- [accommodations](accommodations/accommodations.md)
+- [cuisine](cuisine/cuisine.md)
+- [outings](outings/outings.md)
+- [travel](travel/travel.md)
