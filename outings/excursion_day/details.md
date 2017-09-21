@@ -24,4 +24,4 @@ This trip is a half day trip to see the scenery of the area around Vancouver.  A
 
 [Link](https://www.tripadvisor.com/AttractionProductDetail-g154943-d12272194-Private_Tour_Britannia_Mine_Museum_Shannon_Falls_and_Eagle_Habitat_from_Vancouver-Vancouver_British_Columbia.html)
 
-[Receipt](../../receipts/nature trip.pdf)
+[Receipt](../../receipts/NatureTrip.pdf)
