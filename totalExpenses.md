@@ -5,5 +5,6 @@
 | Car rental                            |$931.63 |
 | Nature Trip                           |$797.20 |
 | Snacks                                |$51.00  |
+| Parking for day excursions            |$48.50  |
 |                                       |        |
-| **Total**                             |$8,790.93 |
+| **Total**                             |$8,839.43 |
