@@ -31,3 +31,18 @@
 
 - Total cost: $931.63
 - Receipts [can be found here](/receipts/CarRental.pdf "Car Receipts") 
+
+
+
+## Parking
+For days at the hotel, we can use the hotel parking for free. On excursion days, however, we will need to arrange parking around the city. 
+    + According to [the City of Vancouver](http://vancouver.ca/streets-transportation/parking.aspx), parking meters are the best and most convenient way for short term. 
+        * Is typically 1 hour or 2 hours 
+        * Gets shorter as demand for parking increases
+        * Meters are in effect from 9:00am to 10:00pm, 7 days a week
+        * Payment is most convenient through the [PayByPhone app](paybyphone.com)
+
+    + Another great option is to park in garages. A few affordable garages are:
+        * Main Place Parking Garage (183 E 12th St, Vancouver, WA 98660)
+        * Broadway - Lot 501 (255 E 8th St, Vancouver, WA 98660)
+
