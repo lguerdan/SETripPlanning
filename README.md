@@ -13,6 +13,9 @@
 
 ### Skiing
 
+  * 9:00 a.m. - 10:00 p.m.
+      (hours of operation)
+
 ## Day 3
 
 ### Excursion Day
@@ -22,6 +25,9 @@
 ## Day 4
 
 ### Skiing
+
+  * 9:00 a.m. - 10:00 p.m.
+      (hours of operation)
 
 ## Day 5
 
