@@ -7,5 +7,6 @@
 | City Tour                             |$180.51 | 
 | Snacks                                |$51.00  |
 | Parking for day excursions            |$48.50  |
+| Hotel Reservation (2 rooms)           | $1,351 |
 |                                       |        |
-| **Total**                             |$9,019.94 |
+| **Total**                             |$10,370.94 |
