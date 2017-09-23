@@ -6,7 +6,7 @@
 ## Hotel Cost
 
 - Total cost: $1351
-- Receipts [can be found here](/receipts/VancouverFlights.pdf "Hotel Receipts") 
+- Receipts [can be found here](/receipts/VancouverHotelBooking.pdf "Hotel Receipts") 
 
 ## Check-in and Check-out
 - Check-in is anytime after 3:00 PM on Sunday, December 17.
