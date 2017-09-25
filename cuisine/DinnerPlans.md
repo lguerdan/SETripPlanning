@@ -5,7 +5,7 @@
 <p><a href="http://lecrocodilerestaurant.com/menus/dinner/">Menu</a></p>
 <p><a href="https://www.tripadvisor.com/Restaurant_Review-g154943-d706088-Reviews-Le_Crocodile-Vancouver_British_Columbia.html">TripAdvisor Link</a></p>
 <p>
-This will be our first dinner destination and our priciest. Rated at eleveen for restaurants in Vancouver it is defined as traditional French cooking with a innovated Westcoast style. It looks really fancy so we should dress nice and getting there around 8pm should give us enough time to get back from our days trips and get ready.
+This will be our first dinner destination and our priciest. Rated at eleveen for restaurants in Vancouver it is defined as traditional French cooking with a innovated Westcoast style. It looks really fancy so we should dress nice and getting there around 8pm should give us enough time to get back from our days trips and get ready. This is one of our days out on the slopes so if we get done with our skiing around 4pm we will be able to make it to the restaurant by 8pm. 
 </p>
 
 
@@ -29,5 +29,5 @@ This place is rated as the 3rd best restaurant in Vancouver according to TripAdv
 <p><a href="https://www.meatandbread.com/menu-1/">Menu</a></p>
 <p><a href="https://www.tripadvisor.com/Restaurant_Review-g154943-d1929373-Reviews-Meat_Bread-Vancouver_British_Columbia.html">TripAdvisor Link</a></p>
 <p>
-This is a nice cheap quick meal we can get as we have already spent an overwhelming about of money on this trip. We can plan on getting there around 3pm and having a quick lunch and then get on with our day again. 
+This is a nice cheap quick meal we can get after skiing early in the morning. We can plan on getting there around 3pm and having a quick lunch and then get back to skiing right after for the rest of our day.
 </p>
