@@ -10,6 +10,14 @@ This restaurant is rated number one by TripAdvisor so obviously it's going to be
 
 
 <h2>Day 2: 12/19/17</h2>
+<p>Restaurant: Cafe Medina</p>
+<p>Location: 780 Richards St, Vancouver, BC V6B 0C8, Canada</p>
+<p>Estimated Cost Per Person: 25$</p>
+<p><a href="http://www.medinacafe.com/">Menu</a></p>
+<p><a href="https://www.tripadvisor.com/Restaurant_Review-g154943-d1159855-Reviews-Cafe_Medina-Vancouver_British_Columbia.html">TripAdvisor Link</a></p>
+<p>
+This restaurant comes in second on TripAdvisior and looks alittle bit more fancy then our first one so we can plan on spending alittle bit more money this time. The quality of the food not only looks amazing, but also the menu is very unique. This is a Mediterinean Cafe and should be very interesting to try out. Going at 8am will make sure we are ready for whatever they day has instore for us. 
+</p>
 
 
 
