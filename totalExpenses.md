@@ -9,4 +9,4 @@
 | Parking for day excursions            |$48.50  |
 | Hotel Reservation (2 rooms)           | $1,351 |
 |                                       |        |
-| **Total**                             |$10,370.94 |
+| **Total**                             |$10,770.94 |
