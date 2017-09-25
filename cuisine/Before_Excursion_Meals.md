@@ -23,8 +23,19 @@ This restaurant comes in second on TripAdvisior and looks alittle bit more fancy
 
 
 <h2>Day 3: 12/20/17</h2>
+<p>Restaurant: Nero Belgian Waffle Bar</p>
+<p>Location: 1703 Robson St, Vancouver, BC V6G 1C9, Canada</p>
+<p>Estimated Cost Per Person: 15$</p>
+<p><a href="http://www.nerowafflebar.com/">Menu</a></p>
+<p><a href="<p>Restaurant: Cafe Medina</p>
+<p>Location: 780 Richards St, Vancouver, BC V6B 0C8, Canada</p>
+<p>Estimated Cost Per Person: 25$</p>
+<p><a href="http://www.medinacafe.com/">Menu</a></p>
 
 
+<p>
+This restaurant comes in second on TripAdvisior and looks alittle bit more fancy then our first one so we can plan on spending alittle bit more money this time. The quality of the food not only looks amazing, but also the menu is very unique. This is a Mediterinean Cafe and should be very interesting to try out. Going at 8am will make sure we are ready for whatever they day has instore for us. 
+</p>
 
 
 <h2>Day 4 (Before Flight Home): 12/21/17</h2>
