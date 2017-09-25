@@ -5,8 +5,8 @@
 | Car rental                            |$931.63 |
 | Nature Trip                           |$797.20 |
 | City Tour                             |$180.51 | 
-| Cuisine                               |$451.00  |
+| Cuisine                               |$876.00  |
 | Parking for day excursions            |$48.50  |
 | Hotel Reservation (2 rooms)           | $1,351 |
 |                                       |        |
-| **Total**                             |$10,770.94 |
+| **Total**                             |$11,095.94 |
