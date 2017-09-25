@@ -37,3 +37,11 @@ Before our final day enjoying what Canada has to offer, I've decided we go to a 
 
 
 <h2>Day 4 (Before Flight Home): 12/21/17</h2>
+<p>Restaurant: The American Griller</p>
+<p>Location: Vancouver Airport Marriott Hotel, 7571 Westminster Hwy, Richmond, BC V6X 1A3, Canada</p>
+<p>Estimated Cost Per Person: 20$</p>
+<p><a href="http://american-grille.com/#menu">Menu</a></p>
+<p><a href="https://www.tripadvisor.com/Restaurant_Review-g181716-d1370963-Reviews-The_American_Grille-Richmond_British_Columbia.html">TripAdvisor Link</a></p>
+<p>
+Unfortunately this will be our last meal in Canada so lets make it a good one. Our flight is at 3:30pm and this highly regarded restaurant near the airport we are flying out of starts serving lunch at 11pm we could go there get ourself a nice large lunch and make our way to the airport.</p>
+</p>
