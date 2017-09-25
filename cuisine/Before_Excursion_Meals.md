@@ -27,9 +27,11 @@ This restaurant comes in second on TripAdvisior and looks alittle bit more fancy
 <p>Location: 1703 Robson St, Vancouver, BC V6G 1C9, Canada</p>
 <p>Estimated Cost Per Person: 15$</p>
 <p><a href="http://www.nerowafflebar.com/">Menu</a></p>
-<p><a href="<p>Restaurant: Cafe Medina</p>
-<p>Location: 780 Richards St, Vancouver, BC V6B 0C8, Canada</p>
-<p>Estimated Cost Per Person: 25$</p>
+<p><a href="https://www.tripadvisor.com/Restaurant_Review-g154943-d3182463-Reviews-Nero_Belgian_Waffle_Bar-Vancouver_British_Columbia.html">TripAdvisor Link</a></p>
+<p>
+Before our final day enjoying what Canada has to offer, I've decided we go to a cool Belgian Waffle Bar that is also ranked the number 4 breakfast joint on TripAdvisor. We have been spending alot of money on this trip so far so spending under 20 this time will be nice on everyones wallet and we will also get to enjoy such a sweet treat. Going at 8am will work with our schedule as usual.
+</p>
+
 
 
 
