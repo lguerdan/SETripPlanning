@@ -5,7 +5,7 @@
 <p><a href="http://lecrocodilerestaurant.com/menus/dinner/">Menu</a></p>
 <p><a href="https://www.tripadvisor.com/Restaurant_Review-g154943-d706088-Reviews-Le_Crocodile-Vancouver_British_Columbia.html">TripAdvisor Link</a></p>
 <p>
-This will be our first dinner destination. Rated at eleveen for restaurants in Vancouver it is defined as traditional French cooking with a innovated Westcoast style. It looks really fancy so we should dress nice and getting there around 8 should give us enough time to get back from our days trips and get ready.
+This will be our first dinner destination and our priciest. Rated at eleveen for restaurants in Vancouver it is defined as traditional French cooking with a innovated Westcoast style. It looks really fancy so we should dress nice and getting there around 8pm should give us enough time to get back from our days trips and get ready.
 </p>
 
 
@@ -16,7 +16,7 @@ This will be our first dinner destination. Rated at eleveen for restaurants in V
 <p><a href="http://www.kingyo-izakaya.ca/food/">Menu</a></p>
 <p><a href="https://www.tripadvisor.com/Restaurant_Review-g154943-d787450-Reviews-Kingyo-Vancouver_British_Columbia.html">TripAdvisor Link</a></p>
 <p>
-This place is rated as the 3rd best restaurant in Vancouver according to TripAdvisor and the menu looks absolutely amazing. This is a fancy sushi joint so we should plan on dressing somewhat nice and spending a decent amount of money. 
+This place is rated as the 3rd best restaurant in Vancouver according to TripAdvisor and the menu looks absolutely amazing. This is a fancy sushi joint so we should plan on dressing somewhat nice and spending a decent amount of money. We should plan on getting there around 7pm. 
 </p>
 
 
