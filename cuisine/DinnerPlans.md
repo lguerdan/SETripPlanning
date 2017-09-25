@@ -23,11 +23,11 @@ This place is rated as the 3rd best restaurant in Vancouver according to TripAdv
 
 
 <h2>Day 3: 12/20/17</h2>
-<p>Restaurant: Nero Belgian Waffle Bar</p>
-<p>Location: 1703 Robson St, Vancouver, BC V6G 1C9, Canada</p>
+<p>Restaurant: Meat & Bread</p>
+<p>Location: 370 Cambie St, Vancouver, BC V6B 2N3, Canada</p>
 <p>Estimated Cost Per Person: 15$</p>
-<p><a href="http://www.nerowafflebar.com/">Menu</a></p>
-<p><a href="https://www.tripadvisor.com/Restaurant_Review-g154943-d3182463-Reviews-Nero_Belgian_Waffle_Bar-Vancouver_British_Columbia.html">TripAdvisor Link</a></p>
+<p><a href="https://www.meatandbread.com/menu-1/">Menu</a></p>
+<p><a href="https://www.tripadvisor.com/Restaurant_Review-g154943-d1929373-Reviews-Meat_Bread-Vancouver_British_Columbia.html">TripAdvisor Link</a></p>
 <p>
-
+This is a nice cheap quick meal we can get as we have already spent an overwhelming about of money on this trip. We can plan on getting there around 3pm and having a quick lunch and then get on with our day again. 
 </p>
