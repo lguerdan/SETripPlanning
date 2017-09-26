@@ -1,5 +1,7 @@
 
-# SETripPlanning
+# Welcome to Vancouver
+![alt text](http://res.cloudinary.com/simpleview/image/upload/v1485548567/clients/vancouverbc/Aerial_Sunset_Vancouver_a59b88be-e776-43cb-8d46-efe3117ac949.jpg"Welcome to Vancouver")
+
 
 ## Day 1 December 17
     + 4:00 am Alexander picks us up from our houses
