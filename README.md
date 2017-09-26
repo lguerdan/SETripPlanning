@@ -9,7 +9,8 @@
     + Arrive YVR at 11:52 a.m. PST
     + Arrive YVR at 11:52 a.m. PST
     + Pick up rental car 12:00 p.m. at airport
-
+    + 2:00 p.m. Tour of Chinatown and Gastown
+    + 3:30 - 3:45 End of Tour
 
 ## Day 2
 
@@ -22,7 +23,8 @@
 
 ### Excursion Day
 
- * 10:00 a.m. - 4 p.m. Nature Trip
+ * 10:00 a.m. Nature Trip, leaving from hotel
+ * 4:00 p.m. End of Trip, back at hotel
 
 ## Day 4
 

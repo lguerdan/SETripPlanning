@@ -5,3 +5,5 @@ See the [lift ticket and equipment rental receipt](../receipts/SkiPassReceipt.pd
 See a [comparison](skiAreaComparison.md) of the ski area options.
 
 See details about the [excursion](excursion_day/details.md).
+
+See details about the [city tour](city_day/details.md).
